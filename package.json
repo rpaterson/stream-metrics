@@ -25,6 +25,7 @@
   "homepage": "https://github.com/rpaterson/stream-metrics#readme",
   "devDependencies": {
     "chai": "^3.5.0",
+    "highland": "^2.8.1",
     "istanbul": "^0.4.3",
     "mocha": "^2.5.3"
   }
