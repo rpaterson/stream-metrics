@@ -1,0 +1,24 @@
+{
+  "name": "stream-metrics",
+  "version": "1.0.0",
+  "description": "Monitor Node stream metrics, including upstream pressure, downstream pressure, and water level.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rpaterson/stream-metrics.git"
+  },
+  "keywords": [
+    "stream",
+    "highWaterMark",
+    "metrics"
+  ],
+  "author": "Roy Paterson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rpaterson/stream-metrics/issues"
+  },
+  "homepage": "https://github.com/rpaterson/stream-metrics#readme"
+}
