@@ -4,6 +4,7 @@
   "description": "Monitor Node stream metrics, including upstream pressure, downstream pressure, and water level.",
   "main": "index.js",
   "scripts": {
+    "cover": "istanbul cover _mocha",
     "test": "mocha",
     "test-watch": "mocha --watch"
   },
